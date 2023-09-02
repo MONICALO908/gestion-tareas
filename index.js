@@ -155,3 +155,6 @@ function iniciarGestionTareas() {
 }
 
 iniciarGestionTareas();
+ 
+
+module.exports=iniciarGestionTareas();
